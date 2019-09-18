@@ -4,7 +4,7 @@ Email="ankushbraj@gmail.com"
 
 # Parameters to Configure Specific Github Repo
 GitHub_User="ankushbraj"
-GitHub_Repo="sagemaker-pipeline"
+GitHub_Repo="AWS_CD_TEST"
 GitHub_Branch="master"
 GitHub_Token="3febe4e7377acb17e142bd7f3ee4a61361a8f863"
 
